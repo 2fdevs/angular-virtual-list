@@ -1,4 +1,8 @@
-angular-virtual-list
+ui-virtual-list
 ====================
 
-An AngularJS virtualized list
+AngularJS virtualized list tutorial files.
+
+See code explanation here: http://twofuckingdevelopers.com/2014/11/angularjs-virtual-list-directive-tutorial
+
+
