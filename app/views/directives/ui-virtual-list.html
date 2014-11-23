@@ -1,0 +1,9 @@
+<div class="canvas" ng-style="canvasHeight">
+  <div class="renderer"
+       ng-repeat="item in visibleProvider"
+       ng-click="onClickOption(item)"
+       ng-style="item.styles"
+       ng-class="{selected: (currentOption.value == item.value)}">
+    <span>{{item.label}}</span>
+  </div>
+</div>
